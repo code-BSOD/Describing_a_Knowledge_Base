@@ -19,7 +19,7 @@ class Config(object):
     nlayers = 1
     lr = 0.001
     epochs = 19
-    batch_size = 300
+    batch_size = 150
     dropout = 0
     bidirectional = False
     max_grad_norm = 10
